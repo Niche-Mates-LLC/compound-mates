@@ -1,6 +1,6 @@
 # Compound Mates
 
-Shared AI toolset for Niche Mates engineering team.
+Shared AI toolset for the ~Niche~ Compound Mates.
 
 ## Installation
 
@@ -29,4 +29,4 @@ claude plugin install compounds@compound-mates
 
 ## Contributing
 
-Do your think bro. Just make sure whatever you do is useful for everyone on the team and not project specific, those commands/skills/whatever-else-they-come-up-with-to-confuse-you sohuld go into the project folder and live with the project GitHub repo.
+Do your thing bro. Just make sure whatever you do is useful for everyone on the team and not project specific, those commands/skills/whatever-else-they-come-up-with-to-confuse-you sohuld go into the project folder and live with the project GitHub repo.
