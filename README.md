@@ -23,6 +23,7 @@ claude plugin install compounds@compound-mates
 | `/pesquisas` | Deep exploration and research before acting |
 | `/review` | Review a PR focusing on real issues |
 | `/deslop` | Remove AI slop and LLM generation fingerprints from branch changes |
+| `/commit` | Commit (and optionally push) changes with proper message style |
 
 ## Contributing
 
