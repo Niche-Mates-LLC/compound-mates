@@ -9,8 +9,8 @@
   },
   "plugins": [
     {
-      "name": "toolset",
-      "source": "./plugins/toolset",
+      "name": "compounds",
+      "source": "./plugins/compounds",
       "description": "Shared prompts and commands",
       "version": "1.0.0"
     }

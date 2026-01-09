@@ -7,13 +7,13 @@ Shared AI toolset for Niche Mates engineering team.
 **Inside Claude Code (slash commands):**
 ```
 /plugin marketplace add Niche-Mates-LLC/compound-mates
-/plugin install toolset@compound-mates
+/plugin install compounds@compound-mates
 ```
 
 **Or via CLI:**
 ```bash
 claude plugin marketplace add Niche-Mates-LLC/compound-mates
-claude plugin install toolset@compound-mates
+claude plugin install compounds@compound-mates
 ```
 
 ## Commands
@@ -26,7 +26,7 @@ claude plugin install toolset@compound-mates
 
 ## Contributing
 
-Add new commands to `plugins/toolset/commands/`.
+Add new commands to `plugins/compounds/commands/`.
 
 ## Meeting Notes
 
