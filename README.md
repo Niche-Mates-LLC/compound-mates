@@ -29,8 +29,4 @@ claude plugin install compounds@compound-mates
 
 ## Contributing
 
-Add new commands to `plugins/compounds/commands/`.
-
-## Meeting Notes
-
-See [compound-engineering docs](https://github.com/Niche-Mates-LLC/niche-mates/tree/master/docs/compound-engineering) for meeting notes and discussions about our AI toolset.
+Do your think bro. Just make sure whatever you do is useful for everyone on the team and not project specific, those commands/skills/whatever-else-they-come-up-with-to-confuse-you sohuld go into the project folder and live with the project GitHub repo.
