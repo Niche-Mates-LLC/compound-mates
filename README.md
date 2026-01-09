@@ -24,6 +24,7 @@ claude plugin install compounds@compound-mates
 | `/review` | Review a PR focusing on real issues |
 | `/deslop` | Remove AI slop and LLM generation fingerprints from branch changes |
 | `/commit-or-push` | Commit (and optionally push) changes with proper message style |
+| `/pm:linear-issue` | Convert task items into minimal Linear issues |
 
 ## Contributing
 
