@@ -1,0 +1,25 @@
+{
+  "name": "compound-mates",
+  "owner": {
+    "name": "Niche Mates LLC",
+    "email": "dev@niche-mates.com"
+  },
+  "metadata": {
+    "description": "Shared AI toolset and prompts for Niche Mates engineering team",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "core-prompts",
+      "source": "./plugins/core-prompts",
+      "description": "Core prompts and commands used across all projects",
+      "version": "1.0.0"
+    },
+    {
+      "name": "pr-review",
+      "source": "./plugins/pr-review",
+      "description": "PR review commands",
+      "version": "1.0.0"
+    }
+  ]
+}

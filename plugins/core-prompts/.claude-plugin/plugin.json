@@ -1,0 +1,8 @@
+{
+  "name": "core-prompts",
+  "description": "Core prompts and commands used across all projects",
+  "version": "1.0.0",
+  "author": {
+    "name": "Niche Mates LLC"
+  }
+}
