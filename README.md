@@ -1,40 +1,31 @@
 # Compound Mates
 
-Shared AI toolset and prompts for Niche Mates engineering team.
+Shared AI toolset for Niche Mates engineering team.
 
 ## Installation
 
 **Inside Claude Code (slash commands):**
 ```
 /plugin marketplace add Niche-Mates-LLC/compound-mates
-/plugin install core-prompts@compound-mates
-/plugin install pr-review@compound-mates
+/plugin install toolset@compound-mates
 ```
 
 **Or via CLI:**
 ```bash
 claude plugin marketplace add Niche-Mates-LLC/compound-mates
-claude plugin install core-prompts@compound-mates
-claude plugin install pr-review@compound-mates
+claude plugin install toolset@compound-mates
 ```
 
-## Plugins
+## Commands
 
-### core-prompts
-Core prompts used across all projects.
-
-**Commands:**
-- `/pesquisas` - Deep exploration and research before acting
-
-### pr-review
-PR review commands.
-
-**Commands:**
-- `/review` - Review a PR focusing on real issues
+| Command | Description |
+|---------|-------------|
+| `/pesquisas` | Deep exploration and research before acting |
+| `/review` | Review a PR focusing on real issues |
 
 ## Contributing
 
-Add new commands to the appropriate plugin folder or create a new plugin under `plugins/`.
+Add new commands to `plugins/toolset/commands/`.
 
 ## Meeting Notes
 
