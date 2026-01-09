@@ -1,5 +1,6 @@
 ---
 description: Review a PR for issues - focus on real problems, not style nitpicks
+disable-model-invocation: true
 ---
 
 # PR Review
