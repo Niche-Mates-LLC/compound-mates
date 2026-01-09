@@ -4,11 +4,16 @@ Shared AI toolset and prompts for Niche Mates engineering team.
 
 ## Installation
 
-```bash
-# Add the marketplace
-claude plugin marketplace add Niche-Mates-LLC/compound-mates
+**Inside Claude Code (slash commands):**
+```
+/plugin marketplace add Niche-Mates-LLC/compound-mates
+/plugin install core-prompts@compound-mates
+/plugin install pr-review@compound-mates
+```
 
-# Install plugins
+**Or via CLI:**
+```bash
+claude plugin marketplace add Niche-Mates-LLC/compound-mates
 claude plugin install core-prompts@compound-mates
 claude plugin install pr-review@compound-mates
 ```
