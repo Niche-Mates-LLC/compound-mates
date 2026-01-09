@@ -5,14 +5,14 @@
   },
   "metadata": {
     "description": "Shared AI toolset for Niche Mates engineering team",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "plugins": [
     {
       "name": "compounds",
       "source": "./plugins/compounds",
       "description": "Shared prompts and commands",
-      "version": "1.1.0"
+      "version": "1.2.0"
     }
   ]
 }

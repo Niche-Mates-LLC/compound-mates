@@ -25,6 +25,7 @@ claude plugin install compounds@compound-mates
 | `/deslop` | Remove AI slop and LLM generation fingerprints from branch changes |
 | `/commit-or-push` | Commit (and optionally push) changes with proper message style |
 | `/pm:linear:bulk-anti-slop-issues` | Convert task items into minimal Linear issues (no slop) |
+| `/meta:bump-version` | Bump compound-mates plugin version (meta) |
 
 ## Contributing
 
