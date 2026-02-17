@@ -1,7 +1,7 @@
 {
   "name": "compounds",
   "description": "Shared prompts and commands for shipping faster with Claude Code",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "author": {
     "name": "Niche Mates LLC"
   }

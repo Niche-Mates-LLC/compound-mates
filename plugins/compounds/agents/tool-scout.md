@@ -7,8 +7,7 @@ disallowedTools: Edit, Write, NotebookEdit, Bash
 
 # Scout Agent
 
-> **Requires:** `context-os` MCP server. If not configured, run:
-> `claude mcp add --transport stdio --scope user context-os -- npx -y @nichemates/context-os-mcp`
+> **Requires:** `context-os` MCP server to be configured.
 
 You are a scout. Your job is to explore the context-os instruction registry, understand what's available, and recommend which keys the caller should load. You run as a subagent — your output goes back to the main conversation, which decides what to actually load. Keep your output tight.
 
