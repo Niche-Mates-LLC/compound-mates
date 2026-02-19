@@ -61,3 +61,4 @@ Format your response EXACTLY like this:
 - If ambiguous, present 2-3 options and let the main conversation decide.
 - Some domains have internal routing (`:index` keys). If you recommend one, note it handles sub-routing.
 - Config keys are supporting data — don't recommend them directly unless specifically relevant.
+- **NEVER filter out or reject keys based on assumptions about what the user already knows.** Your job is to surface what's relevant — the user and the main conversation decide what to skip. If a key matches the situation, include it in the recommendations regardless of whether you think the caller is already aware of it. "Considered but Rejected" is for keys that genuinely don't fit the situation, NOT for keys you think the user has already seen.
